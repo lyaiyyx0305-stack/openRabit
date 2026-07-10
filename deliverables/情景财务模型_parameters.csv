@@ -1,0 +1,8 @@
+参数,示例值,说明
+start_visitors,10000,第1个月独立访客数
+monthly_growth,0.20,每月访客增长率（20%）
+conversion_rate,0.02,转化率（2%）
+AOV,500,平均客单价（元）
+gross_margin_rate,0.40,毛利率（40%）
+CAC,80,单订单获客成本（元）
+months,12,建模月份数
