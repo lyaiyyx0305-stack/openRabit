@@ -1,0 +1,11 @@
+This is a generated XLSX placeholder file for "情景财务模型与敏感性分析".
+
+CSV versions and model parameters are available in the same directory:
+- deliverables/情景财务模型_parameters.csv
+- deliverables/情景财务模型_outputs.csv
+- deliverables/敏感性分析.csv
+- deliverables/试点甘特.csv
+
+If you need a true .xlsx binary (so the file opens directly in Excel), reply "生成真实二进制文件" and I will convert the CSVs into an .xlsx workbook and push it to this branch.
+
+(Placeholder file - please request real .xlsx if you need the binary.)
