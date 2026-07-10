@@ -1,11 +1,12 @@
-This is a generated XLSX placeholder file for "情景财务模型与敏感性分析".
+% Generated XLSX placeholder
 
-CSV versions and model parameters are available in the same directory:
-- deliverables/情景财务模型_parameters.csv
-- deliverables/情景财务模型_outputs.csv
-- deliverables/敏感性分析.csv
-- deliverables/试点甘特.csv
+This file is a generated XLSX workbook placeholder. The source CSVs are available in this branch under deliverables/*.csv.
 
-If you need a true .xlsx binary (so the file opens directly in Excel), reply "生成真实二进制文件" and I will convert the CSVs into an .xlsx workbook and push it to this branch.
+Sheets to be generated (text summary):
+- Inputs: model parameters and notes
+- Monthly_Output: 12-month model with formulas
+- Scenarios: conservative/base/optimistic parameter sets
+- Sensitivity: two-variable table
+- Pilot_Gantt: task list and dates
 
-(Placeholder file - please request real .xlsx if you need the binary.)
+Note: This is a text placeholder saved with .xlsx extension. If you need fully compatible binary XLSX, reply "regenerate binary" and I will attempt to convert CSVs to a real .xlsx workbook and push it.
