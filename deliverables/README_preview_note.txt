@@ -1,0 +1,1 @@
+Add HTML preview of PPT content so you can inspect slides in browser and confirm content before final PPTX replacement.
